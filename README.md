@@ -3,6 +3,7 @@
 A Power BI project delivering real-time sales insights for AtliQ Hardware. Includes data extraction, cleaning, and transformation from MySQL to create an interactive dashboard for actionable sales trends and performance analysis.
 
 ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
 
 ## Overview
 
@@ -90,3 +91,15 @@ This project focuses on providing real-time sales insights for AtliQ Hardware, a
 ## Conclusion
 
 This project demonstrates the entire lifecycle of a data analysis project, from planning and data discovery to ETL, data cleaning, and dashboard creation. It showcases the capabilities of Power BI in transforming raw data into actionable insights, supporting strategic decision-making in a competitive market.
+
+![key_insight](https://github.com/user-attachments/assets/a37598b5-4e22-476d-92aa-bf0b85c0b0fe)
+![performance](https://github.com/user-attachments/assets/d5b44a27-1cbc-46b6-92e1-546a9744dcbc)
+![profit analysis](https://github.com/user-attachments/assets/2f6468ed-ae67-40ba-a981-81c042632e6b)
+![mob_key](https://github.com/user-attachments/assets/f898c01b-28b7-456c-9115-5be07c2ede7a)
+![mob_key2](https://github.com/user-attachments/assets/4f5b4f10-08de-43d8-8545-d90eb70acdf6)
+![mob_perf](https://github.com/user-attachments/assets/cb3da931-ca4c-42f2-9642-94dc6bc803c6)
+![mob_profit](https://github.com/user-attachments/assets/2f739983-6990-42a0-8f7a-d6d218aa026b)
+
+
+
+  
