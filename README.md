@@ -7,7 +7,7 @@ A Power BI project delivering real-time sales insights for AtliQ Hardware. Inclu
 
 ## Overview
 
-This project focuses on providing real-time sales insights for AtliQ Hardware, a computer hardware business, using Power BI. By addressing the challenges of a dynamically changing market, this data analysis project aims to equip the sales director with a comprehensive Power BI dashboard that offers actionable insights. This project serves as an excellent example for anyone seeking a career as a data analyst, showcasing how data analysis projects are executed in big companies.
+This project focuses on providing real-time sales insights for AtliQ Hardware, a computer hardware business, using Power BI. By addressing the challenges of a dynamically changing market, this data analysis project aims to equip the sales director with a comprehensive Power BI dashboard that offers actionable insights. 
 
 ## Project Objectives
 
